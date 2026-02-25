@@ -1,0 +1,4 @@
+this is my file two for git course
+this is for commit check
+
+2026 footer note added 
